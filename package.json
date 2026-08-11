@@ -19,7 +19,7 @@
     "author": "Agent of Dusk",
     "license": "MIT",
     "engines": {
-        "node": ">=18"
+        "node": ">=20"
     },
     "dependencies": {
         "@bochilteam/scraper": "^5.0.1",
@@ -30,7 +30,7 @@
         "adm-zip": "^0.5.18",
         "awesome-phonenumber": "^7.8.0",
         "axios": "^1.19.0",
-        "better-sqlite3": "^12.11.1",
+        "better-sqlite3": "^12.8.0",
         "chalk": "^4.1.2",
         "cheerio": "^1.2.0",
         "docx": "^9.7.1",
